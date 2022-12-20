@@ -1,5 +1,5 @@
 ## Oi, eu sou LudyLUDK — estudante de ADS e amante de Data Science e Engenharia de Dados!
-<div align="center">
+<div align="justify">
   <a href="https://github.com/LudyLUDK">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LudyLUDK&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LudyLUDK&layout=compact&langs_count=7&theme=dracula"/>
